@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Christophe/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/**)",
+      "Read(//c/Users/Christophe/.m2/**)",
+      "Bash(certutil -hashfile maven-surefire-plugin-3.2.5.jar SHA1)"
+    ]
+  }
+}
